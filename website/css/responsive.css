@@ -1,0 +1,53 @@
+@media (max-width: 600px) {
+  .navbar {
+    padding: 10px;
+    padding-bottom: 20px;
+  }
+  .navbar img {
+    height: 16px;
+  }
+  .navbar h2 {
+    font-size: 18px;
+  }
+  .main {
+    display: block;
+    overflow: hidden;
+    height: 100vh;
+  }
+  .main-image {
+    height: 370px;
+  }
+  .text {
+    width: 90%;
+    font-size: 1em;
+    margin-left: 20px;
+  }
+  .text h1 {
+    font-size: 1.6em;
+  }
+  .text p {
+    padding-right: 20px;
+  }
+  .btn {
+    padding: 7.5px;
+    font-size: 14px;
+  }
+  .features {
+    display: block;
+  }
+  .text h1 {
+    font-size: 2em;
+  }
+  .features img {
+    height: 250px;
+  }
+  .download{
+      width: 70%;
+  }
+  .footer{
+      padding: 20px 0;
+  }
+  .download h1{
+      font-size: 1.6em;
+  }
+}

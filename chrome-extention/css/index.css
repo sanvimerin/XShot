@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+}
+html,
+body {
+  height: 280px;
+  width: 200px;
+  overflow: hidden;
+  background: var(--white);
+}
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main {
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+}
+.btn {
+  padding: 10px;
+  background: var(--light-blue);
+  margin: 10px;
+  border: 1px solid var(--highlight);
+  cursor: pointer;
+  border-radius: 5px;
+  justify-content: flex-start;
+  align-items: center;
+  transition: 0.25s;
+}
+.btn h3 {
+  font-size: 12px;
+  color: var(--dark);
+}
+.btn i {
+  font-size: 16px;
+  margin-right: 5px;
+  color: var(--hover-blue);
+}
+#curentWebPageURL {
+  visibility: hidden;
+  position: absolute;
+  z-index: -1;
+}
+.btn:hover {
+  background: var(--whitecontrast);
+  border-color: var(--hover-blue);
+}
+.mockup {
+  margin: 10px;
+  border-radius: 5px;
+  height: 85%;
+  display: none;
+}
+.color-cont h3 {
+  text-transform: uppercase;
+}
+input[type="color"] {
+  -webkit-appearance: none;
+  border: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 2.5px;
+  border: 1px solid var(--hover-blue);
+  margin-right: 10px;
+  cursor: pointer;
+}
+input[type="color"]:focus {
+  outline: none;
+}
+input[type="color"]::-webkit-color-swatch-wrapper {
+  padding: 0;
+}
+input[type="color"]::-webkit-color-swatch {
+  border: none;
+}
+.color-cont {
+  justify-content: flex-start;
+  background: var(--light-blue);
+  border: 1px solid var(--highlight);
+  border-radius: 5px;
+  padding: 7.5px;
+  transition: 0.5s;
+}
+.color-cont:hover {
+  background: var(--whitecontrast);
+  border-color: var(--hover-blue);
+}
+.downloadMockup {
+  padding: 10px;
+}
+.downloadMockup {
+  padding: 10px;
+  background: var(--light-blue);
+  margin: 10px 0;
+  border: 1px solid var(--hover-blue);
+  cursor: pointer;
+  border-radius: 5px;
+  justify-content: flex-start;
+  align-items: center;
+  transition: 0.25s;
+}
+.downloadMockup h3 {
+  font-size: 12px;
+  color: var(--dark);
+}
+.backIcon{
+  cursor: pointer;
+}
+.downloadMockup i {
+  font-size: 16px;
+  margin-right: 8px;
+  color: var(--hover-blue);
+}
+.nav {
+  padding: 10px 0;
+  justify-content: flex-start;
+}
+.nav i {
+  color: var(--dark2);
+  font-size: 18px;
+  margin-right: 10px;
+}
+.line {
+  height: 1px;
+  width: 100%;
+  background: var(--white2);
+  margin: 0 0 10px 0;
+  border-radius: 35px;
+}

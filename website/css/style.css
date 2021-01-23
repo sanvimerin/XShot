@@ -1,0 +1,17 @@
+@import url("./index.css");
+@import url("./responsive.css");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;600&display=swap");
+
+:root{
+    --white: #fff;
+    --whitehighlight: #eaf7ff;
+    --whitecontrast: #eaf4ff;
+    --black: #000;
+    --shadow: rgba(31, 38, 135, 0.06);
+    --shadow2: rgba(31, 38, 135, 0.04);
+    --shadow3: rgba(31, 38, 135, 0.15);
+    --shadow4: rgba(31, 38, 135, 0.12);
+    --gradient1: #12e2fe;
+    --gradient2: #4caffe;
+    --lightblue: #8acfff;
+}

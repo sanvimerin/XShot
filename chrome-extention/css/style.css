@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap");
+@import url("./index.css");
+@import url("./uicons-regular-rounded.css");
+
+:root{
+    --white: #fff;
+    --light-blue: rgba(138, 207, 255, 0.1);
+    --whitecontrast: #e0f4ff;
+    --highlight: #eaf7ff;
+    --hover-blue: #8acfff;
+    --dark: #555;
+    --dark2: #aaa;
+    --white2: #ccc;
+}
