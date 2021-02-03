@@ -22,5 +22,5 @@ git clone https://github.com/sanvimerin/XShot.git
 
 5. Start using XShot, Enjoy!
 
-<img src="https://raw.githubusercontent.com/sanvimerin/XShot/main/website/img/pt4.png" width="70%" />
+![](ttps://raw.githubusercontent.com/sanvimerin/XShot/main/website/img/pt4.png)
 
