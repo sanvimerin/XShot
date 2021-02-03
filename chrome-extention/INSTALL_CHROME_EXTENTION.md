@@ -1,4 +1,4 @@
-4 Install XShot
+# Install XShot
 
 1. To install XShot first clone the repo
 
