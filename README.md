@@ -32,7 +32,7 @@ Install Chrome Extention ✨: [INSTALL_EXTENTION.md](./chrome-extention/INSTALL_
 ## Install Chrome Extention
 Currently, I haven't hosted the extention on Chrome Web Store, but you can expect it after the development is fully complete.
 
-If you're interested you could use it by following the [INSTALL_EXTENTION.md](https://github.com/divyaxavier/SmartQR/blob/main/extention/INSTALL_EXTENTION.md). Thanks
+If you're interested you could use it by following the [INSTALL_EXTENTION.md](./chrome-extention/INSTALL_CHROME_EXTENTION.md). Thanks
 
 ## How I built it
 To build the extention, the most time consumed step was to find the best and the productive API to make the extention work. After finding the API, I started creating a UI for the extention and then coded it. After that I developed a website with Soft UI to showcase the project.
