@@ -1,4 +1,4 @@
-# Install XShot
+4 Install XShot
 
 1. To install XShot first clone the repo
 
@@ -13,10 +13,14 @@ git clone https://github.com/sanvimerin/XShot.git
 3. Select your folder and select chrome-extention from it and click `Open`
    > Make sure that you select the chrome-extention folder
 
-<img src="https://raw.githubusercontent.com/sanvimerin/XShot/main/website/img/pt2.png" width="40%" />
+<img src="https://raw.githubusercontent.com/sanvimerin/XShot/main/website/img/pt2.png" width="70%" />
 
 4. That's it, you can now see a new extention
-   ![](https://raw.githubusercontent.com/sanvimerin/XShot/main/website/img/pt3.png)
+
+<img src="https://raw.githubusercontent.com/sanvimerin/XShot/main/website/img/pt3.png" width="70%" />
+
 
 5. Start using XShot, Enjoy!
-   ![](https://raw.githubusercontent.com/sanvimerin/XShot/main/website/img/pt4.png)
+
+<img src="https://raw.githubusercontent.com/sanvimerin/XShot/main/website/img/pt4.png" width="70%" />
+
