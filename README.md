@@ -1,4 +1,4 @@
-# SmartQR
+# XShor
 Grab Awesome Screenshots in different devices.
 
 <img src="./website/img/product-website.png">
